@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Nextjs and Typescript**
 
-- 💬 Ask me about **Nextjs, Typescript, Reactjs, Redux, ReactQuery, NodeJS and MongoDB**
-
 - 📫 How to reach me **gyaneshwar585@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
